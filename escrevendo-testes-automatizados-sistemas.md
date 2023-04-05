@@ -14,14 +14,15 @@ Para garantir que o software esteja sendo testado adequadamente, é importante a
 
 Por fim, é importante ressaltar que os testes não devem ser vistos como uma tarefa secundária ou desnecessária durante o processo de desenvolvimento de software. Testes de qualidade são essenciais para garantir a estabilidade, a segurança e a funcionalidade do software e para evitar prejuízos.
 
-1. [Testes automatizados: conceitos e importância](#1-orienta%C3%A7%C3%A3o-a-objetos-e-t%C3%A9cnicas-de-design-de-c%C3%B3digo)
-2. [Testes Unitarios, definindo e testando unidades de codigo.](#2-revisitando-design-patterns)
-3. [Introdução a Testes Integrados conceitos e importânciaa](#3-solid-ou-como-juntar-oo-e-design-patterns-na-mesma-panela)
-4. [Pirâmide de testes: conceitos e estratégias para criação de testes automatizados](#4-design-e-arquitetura-de-código)
-5. [Testes de ponta a ponta: conceitos e técnicas para criação](#4-design-e-arquitetura-de-código)
-6. [Testes de aceitação do usuário: conceitos e técnicas para criação](#4-design-e-arquitetura-de-código)
-7. [Testes de Contrato](#4-design-e-arquitetura-de-código)
-8. [Técnicas de Testes](#4-design-e-arquitetura-de-código)
+1. [Testes automatizados: conceitos e importância](#1-testes-automatizados-conceitos-e-importância)
+2. [Testes Unitarios, definindo e testando unidades de codigo.](#2-testes-unitarios-definindo-e-testando-unidades-de-codigo)
+3. [Técnicas de Testes](#3-tecnicas-de-testes)
+4. [Introdução a Testes Integrados conceitos e importânciaa](#4-introdução-a-testes-integrados-conceitos-e-importância)
+5. [Testes Integrados com Spring Boot](#5-testes-integrados-com-spring-boot)
+6. [Pirâmide de testes: conceitos e estratégias para criação de testes automatizados](#6-pirâmide-de-testes-conceitos-e-estratégias-para-criação-de-testes-automatizadosa)
+7. [Testes de ponta a ponta: conceitos e técnicas para criação](#7-testes-de-ponta-a-ponta-conceitos-e-técnicas-para-criação)
+8. [Testes de aceitação do usuário: conceitos e técnicas para criação](#8-testes-de-aceitação-do-usuário-conceitos-e-técnicas-para-criação)
+9. [Testes de Contrato](#9-testes-de-contrato)
 
 Ao fim desse plano de estudos, você terá heuristicas úteis que te ajudarão a olhar para trechos de código e que te permitirão identificar quais são os testes que ajudaram a encontrar bugs de foram antecipada.
 
