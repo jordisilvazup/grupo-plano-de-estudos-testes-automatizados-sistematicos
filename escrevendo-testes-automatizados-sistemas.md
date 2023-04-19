@@ -37,6 +37,8 @@ Ao fim desse plano de estudos, você terá heuristicas úteis que te ajudarão a
 ## 2. Testes Unitarios, definindo e testando unidades de codigo.
 - [Conceitos de Testes Unitarios com Martin Fowler](https://martinfowler.com/bliki/UnitTest.html)
 - [Conceitos de Testes Unitarios com Mocks(Dubles) com Martin Fowler](https://martinfowler.com/bliki/TestDouble.html)
+- [Mocks and Stubs com Martin Fowler](https://martinfowler.com/articles/mocksArentStubs.html)
+- [Diferenciando Mocks, Stubs, Fakes, Spies e Dummies](https://medium.com/rd-shipit/test-doubles-mocks-stubs-fakes-spies-e-dummies-a5cdafcd0daf)
 - [Criando rotinas de testes para fluxos de exceção e erro](http://blog.triadworks.com.br/junit-testando-fluxos-de-excecao-e-erro)
 
 ###  Validando o conhecimento
